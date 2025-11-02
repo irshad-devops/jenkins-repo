@@ -4,4 +4,4 @@ a=2
 b=4
 c=a+b
 print(c)
-print(wrong-test"56f777)
+print("now ok")
