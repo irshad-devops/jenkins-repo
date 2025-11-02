@@ -4,4 +4,4 @@ a=2
 b=4
 c=a+b
 print(c)
-print(wrong-test"1234)
+print(wrong-test"rddrrx)
